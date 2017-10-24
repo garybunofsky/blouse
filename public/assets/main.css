@@ -6,12 +6,15 @@ body {
 
 h1 {
   font-weight: 300;
-  margin: 0 0 0.3875em;
+  margin: 0 0 .675em 0;
   font-size: 2.4em;
-  color:#5a5957;
+  color:#828282;
 }
 code {
   color: #a5a4a3;
+  font-family: "Courier New", "Menlo";
+  font-size: 0.875em;
+  font-weight: 200;
 }
 
 .u-margin-bottom-3 {
@@ -29,7 +32,7 @@ code {
 .button {
   display: inline-block;
   overflow: visible;
-  margin: 0;
+  margin: 0 0 0.625em 0;
   padding: 0 2em;
   height: 3em;
   border: 0;
