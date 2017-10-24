@@ -6,13 +6,24 @@ body {
 
 h1 {
   font-weight: 300;
-  margin: 0 0 0.25em;
+  margin: 0 0 0.3875em;
   font-size: 2.4em;
   color:#5a5957;
+}
+code {
+  color: #a5a4a3;
 }
 
 .u-margin-bottom-3 {
   margin-bottom: 3em;
+}
+
+.u-margin-bottom-2 {
+  margin-bottom: 2em;
+}
+
+.u-margin-bottom-1 {
+  margin-bottom: 1em;
 }
 
 .button {
@@ -23,7 +34,9 @@ h1 {
   height: 3em;
   border: 0;
   border-radius: 0.1875em;
-  background: #fb7266;
+  background: -webkit-linear-gradient(180deg, hsl(10, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
+  background: -webkit-linear-gradient(180deg, hsl(10, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
+  background: linear-gradient(180deg, hsl(10, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
   font-weight: 200;
   vertical-align: middle;
   text-align: center;
@@ -39,10 +52,15 @@ h1 {
   -moz-appearance: none;
   appearance: none;
   color: #fff;
+  text-shadow: 0 1px 2px hsl(5, 98%, 67%);
+  box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
 }
 
 .button:hover {
-  background: #FF5A4B;
+  background: -webkit-linear-gradient(180deg, hsl(5, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
+  background: -webkit-linear-gradient(180deg, hsl(5, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
+  background: linear-gradient(180deg, hsl(5, 98%, 67%) 1%, hsl(5, 98%, 67%) 100%);
+  box-shadow:0 4px 7px rgba(50,50,93,.16), 0 1px 4px rgba(0,0,0,.14);
 }
 
 /* wrapper */
