@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>droplet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-124.000000, 0.000000)" stroke="#A5A4A3" stroke-width="2">
+            <g id="droplet" transform="translate(125.000000, 2.000000)">
+                <path d="M7,20 C11.418278,20 14,16.418278 14,12 C14,9.05448133 11.6666667,5.05448133 7,8.8817842e-16 C2.33333333,5.05448133 0,9.05448133 0,12 C1.8937905e-16,16.418278 2.581722,20 7,20 Z" id="Oval-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
