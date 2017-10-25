@@ -71,7 +71,7 @@ code {
   padding:8em 1em;
 }
 .wrapper {
-  margin: 0 20% 0 20%;
+  margin: 0 4% 0 4%;
 }
 
 .u-text-center {
@@ -99,5 +99,8 @@ code {
 @media screen and (min-width: 40em) {
     .grid {
       flex-direction: row;
+    }
+    .wrapper {
+      margin: 0 20% 0 20%;
     }
 }
