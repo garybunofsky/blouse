@@ -9,5 +9,5 @@ app.use('/', function (req, res){
   res.sendFile(path.join(__dirname + '/index.html'));
 });
 
-.listen(process.env.PORT || 5000)
+app.listen(process.env.PORT || 5000)
 console.log('Express running');
