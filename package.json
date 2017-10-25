@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/garybunofsky/sign.git"
   },
-  "author": "Gary Bunofsky",
+  "author": "Gary Bunofsky <gary@garybunofsky.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/garybunofsky/sign/issues"
