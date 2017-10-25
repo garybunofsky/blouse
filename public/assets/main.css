@@ -85,11 +85,13 @@ code {
 }
 
 .grid-item {
+  display: flex;
   flex: 1;
   padding:0.5em;
 }
 
 .icon {
+  flex: 1;
   background: #f4f3f1;
   color:#a5a4a3;
   border-radius: 0.1875em;
