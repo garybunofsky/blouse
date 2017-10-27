@@ -1,7 +1,7 @@
 {
-  "name": "sign",
+  "name": "blouse",
   "version": "1.0.0",
-  "description": "Simple icons, made for you.",
+  "description": "A collection of simple, subtle icons.",
   "main": "index.js",
   "engines": {
     "node": "8.7.0",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garybunofsky/sign.git"
+    "url": "git+https://github.com/garybunofsky/blouse.git"
   },
   "author": "Gary Bunofsky <gary@garybunofsky.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/garybunofsky/sign/issues"
+    "url": "https://github.com/garybunofsky/blouse/issues"
   },
-  "homepage": "https://github.com/garybunofsky/sign#readme",
+  "homepage": "https://github.com/garybunofsky/blouse#readme",
   "dependencies": {
     "express": "^4.16.2",
     "nodemon": "^1.12.1",
