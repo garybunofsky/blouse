@@ -66,7 +66,31 @@ code {
   box-shadow:0 4px 7px rgba(50,50,93,.16), 0 1px 4px rgba(0,0,0,.14);
 }
 
-/* wrapper */
+
+/* Header */
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+header ul li {
+  margin:0 1em;
+  display: inline-flex;
+}
+
+header ul li a {
+  font-weight: 400;
+  color:#a5a4a3;
+  text-decoration: none;
+}
+
+header ul li a:hover {
+  color:#fd6658;
+}
+
+
+/* Wrapper */
 .page-wrapper {
   padding:8em 1em;
 }
@@ -78,7 +102,8 @@ code {
   text-align: center;
 }
 
-/* grid */
+
+/* Grid */
 .grid {
   display: flex;
   flex-direction: column;
@@ -98,6 +123,8 @@ code {
   padding:0.75em 0.5em;
 }
 
+
+/* Media Queries */
 @media screen and (min-width: 40em) {
     .grid {
       flex-direction: row;
