@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>help</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-386.000000, -26.000000)">
+            <g id="help" transform="translate(387.000000, 27.000000)">
+                <circle id="Oval-8" stroke="#A5A4A3" stroke-width="2" cx="9" cy="9" r="9"></circle>
+                <path d="M9,4.5 L9,10.5" id="Line-7" stroke="#A5A4A3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-9" fill="#A5A4A3" cx="9" cy="14" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
